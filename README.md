@@ -15,7 +15,8 @@
   - Able to remove certain websites from being blacklisted.
 - Zen Mode
   - Goes fullscreen and doesn't allow you to switch tabs.
-  - `CTRL + SHIFT + Z` toggles Zen mode.
+  - `CTRL + SHIFT + Z` toggles Zen mode (Windows)
+  - `COMMAND + SHIFT + Z` toggles Zen mode (macOS)
 
 ## Installation
 1. Go to the [Releases](//github.com/atomdevelops/productivityplus/releases) page of this repository
